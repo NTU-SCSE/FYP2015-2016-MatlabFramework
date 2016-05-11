@@ -4,6 +4,6 @@
 <topic>Z Transform</topic>
 <subtopic>Transfer Function</subtopic>
 <function>transferFunction.m</function>
-<description>This application able to show the impulse response, unit step response from the zero and pole input or the coefficient input. The Transfer function is also available.</description>
+<description>This programs is still in progress.</description>
 <snapshot>transferFunction.png</snapshot>
 </main_gui>
