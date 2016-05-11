@@ -1,3 +1,5 @@
+<h2>Transfer Functions</h2>
+
 <p>The Transfer Function app is an application that allows user to visualize the impulse response and the unit step response from the input of zeros and poles.</p>
 
 <p>The features:</p>
