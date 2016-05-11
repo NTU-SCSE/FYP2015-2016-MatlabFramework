@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Signal Processing</course>
+<topic>Z Transform</topic>
+<subtopic>Zero and Pole Dragging Graphics</subtopic>
+<function>zeroAndPoleDragging.m</function>
+<description>This application illustrates the correspondence between the z-transform and frequency response for a rational transfer function. A user interface allows the poles and zeros to be placed, and the corresponding frequency response is plotted.</description>
+<snapshot>zeroAndPoleDragging.png</snapshot>
+</main_gui>

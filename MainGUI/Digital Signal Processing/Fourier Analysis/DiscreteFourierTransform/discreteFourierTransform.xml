@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Signal Processing</course>
+<topic>Fourier Analysis</topic>
+<subtopic>Discrete Fourier Transform</subtopic>
+<function>discreteFourierTransform.m</function>
+<description>The application will compute sequence x and show the Magnitude and the Angle of the fourier coefficient</description>
+<snapshot>discreteFourierTransform.png</snapshot>
+</main_gui>

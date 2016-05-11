@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Signal Processing</course>
+<topic>Z Transform</topic>
+<subtopic>Transfer Function</subtopic>
+<function>transferFunction.m</function>
+<description>This application able to show the impulse response, unit step response from the zero and pole input or the coefficient input. The Transfer function is also available.</description>
+<snapshot>transferFunction.png</snapshot>
+</main_gui>

@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Communications</course>
+<topic>Modulation</topic>
+<subtopic>Amplitude Modulation</subtopic>
+<function>AModulation.m</function>
+<description>Demonstration for amplitude modulation with a predefined message signal.</description>
+<snapshot>AModulation2.png</snapshot>
+</main_gui>

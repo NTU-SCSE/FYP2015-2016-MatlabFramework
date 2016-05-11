@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Communications</course>
+<topic>Modulation</topic>
+<subtopic>Frequency Modulation</subtopic>
+<function>FModulation.m</function>
+<description>Demonstration for frequency modulation with a predefined message signal.</description>
+<snapshot>FModulation.png</snapshot>
+</main_gui>

@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Signal Processing</course>
+<topic>Signals and Systems</topic>
+<subtopic>Continuous Time to Discrete Time Signal</subtopic>
+<function>continuousTimeToDiscreteTimeSineSignal.m</function>
+<description>This application allows to create a set of periodic continuos signals and convert to discrete time signal</description>
+<snapshot>continuousTimeToDiscreteTimeSineSignal.png</snapshot>
+</main_gui>

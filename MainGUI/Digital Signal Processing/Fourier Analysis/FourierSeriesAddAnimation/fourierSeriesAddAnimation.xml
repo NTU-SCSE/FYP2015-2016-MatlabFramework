@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Signal Processing</course>
+<topic>Fourier Analysis</topic>
+<subtopic>Fourier Series add Animation</subtopic>
+<function>fourierSeriesAddAnimation.m</function>
+<description>This application demonstrate Fourier series representation of periodic signals (as a sum of sinusoidal functions).</description>
+<snapshot>fourierSeriesAddAnimation.png</snapshot>
+</main_gui>

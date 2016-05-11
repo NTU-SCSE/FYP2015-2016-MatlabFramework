@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Signal Processing</course>
+<topic>Z Transform</topic>
+<subtopic>Zero and Pole Diagram</subtopic>
+<function>ztransform.m</function>
+<description></description>
+<snapshot>ztransform.png</snapshot>
+</main_gui>

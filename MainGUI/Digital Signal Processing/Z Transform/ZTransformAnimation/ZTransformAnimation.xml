@@ -1,0 +1,9 @@
+<main_gui>
+<type>subtopic</type>
+<course>Digital Signal Processing</course>
+<topic>Z Transform</topic>
+<subtopic>Z Transform Animation</subtopic>
+<function>ZTransformAnimation.m</function>
+<description>This application visualize the sampling the Z-transform of a single root around the unit circle.</description>
+<snapshot>inProgress.png</snapshot>
+</main_gui>
