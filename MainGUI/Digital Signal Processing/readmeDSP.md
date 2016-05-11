@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -9,7 +9,7 @@ p    {color:green;}
 </head>
 <body>
 
-<h2>DIGITAL SIGNAL PROCESSING</h2>
+<h1>DIGITAL SIGNAL PROCESSING</h2>
 <p>Inside the DSP folder there are total of 3 topics which are: Signals and Systems, Fourier analysis, and Z Transform</p>
 
 </body>
